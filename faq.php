@@ -15,6 +15,11 @@
 
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="css/style.css">
+  <style>
+    a:hover {
+  background-color: white;
+}
+  </style>
 
 </head>
 
